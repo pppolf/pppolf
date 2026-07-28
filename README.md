@@ -42,18 +42,15 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/pppolf">
-    <img
-      src="https://img.shields.io/badge/GitHub-pppolf-181717?style=for-the-badge&logo=github&logoColor=white"
-      alt="GitHub"
-    />
-  </a>
-  <a href="https://scswiki.com">
-    <img
-      src="https://img.shields.io/badge/SCSWiki-scswiki.com-2563EB?style=for-the-badge&logo=readthedocs&logoColor=white"
-      alt="SCSWiki"
-    />
-  </a>
+  <a href="https://github.com/pppolf"><img src="https://img.shields.io/badge/GitHub-pppolf-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="https://scswiki.com"><img src="https://img.shields.io/badge/SCSWiki-scswiki.com-2563EB?style=for-the-badge&logo=readthedocs&logoColor=white" alt="SCSWiki" /></a>
+</p>
+
+<p align="center">
+  <a href="https://codeforces.com/profile/pppwolf"><img src="https://img.shields.io/badge/Codeforces-pppwolf-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces" /></a>
+  <a href="https://www.luogu.com.cn/user/984056"><img src="https://img.shields.io/badge/Luogu-pppwolf-3498DB?style=for-the-badge" alt="Luogu" /></a>
+  <a href="https://atcoder.jp/users/pppwolf"><img src="https://img.shields.io/badge/AtCoder-pppwolf-222222?style=for-the-badge" alt="AtCoder" /></a>
+  <a href="https://ac.nowcoder.com/acm/contest/profile/348373823"><img src="https://img.shields.io/badge/NowCoder-pppwolf-00BC9B?style=for-the-badge" alt="NowCoder" /></a>
 </p>
 
 ---
@@ -228,6 +225,17 @@ Competitive Programming
 * Organizing reusable algorithms, tools, and documentation for competitive programmers.
 
 ## GitHub Activity
+
+<table align="center">
+  <tr>
+    <th>
+      <img alt="GitHub Stats" src="https://github-readme-stats-ins.vercel.app/api?username=pppolf&show_icons=true&theme=graywhite&bg_color=0000&hide_border=true" align="center" />
+    </th>
+    <th>
+      <img alt="Top Langs" src="https://github-readme-stats-ins.vercel.app/api/top-langs/?username=pppolf&layout=compact&theme=graywhite&bg_color=0000&hide_border=true&langs_count=14&hide=CMake" align="center" />
+    </th>
+  </tr>
+</table>
 
 <p align="center">
   <img
