@@ -60,7 +60,7 @@
 
 ## About Me
 
-* 🎓 Computer Science graduate student at **West China Normal University**.
+* 🎓 Computer Science graduate student at **China West Normal University**.
 * 🏆 Competitive programmer with provincial **gold and silver awards**, as well as a **national second prize** in the Lanqiao Cup C++ competition.
 * 🔐 Researching **machine learning security**, especially backdoor attacks and defenses.
 * 🧠 Currently exploring backdoor security in **graph neural networks** and **text-to-image diffusion models**.
@@ -191,7 +191,7 @@ Competitive Programming
       </h3>
       <p>
         An unofficial, student-oriented knowledge base for the School of
-        Computer Science at West China Normal University.
+        Computer Science at China West Normal University.
       </p>
       <p>
         <img src="https://img.shields.io/badge/VitePress-5C73E7?style=flat-square&logo=vitepress&logoColor=white" alt="VitePress" />
